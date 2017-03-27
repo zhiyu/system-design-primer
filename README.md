@@ -1,43 +1,40 @@
-# The System Design Primer
+# 系统设计入门
 
 <p align="center">
   <img src="http://i.imgur.com/jj3A5N8.png">
   <br/>
 </p>
 
-## Motivation
+## 动机
 
-> Learn how to design large scale systems.
+> 学会如何设计大规模系统。
 >
-> Prep for the system design interview.
+> 为系统设计面试做准备。
 
-### Learn how to design large scale systems
+### 学会如何设计大规模系统
 
-Learning how to design scalable systems will help you become a better engineer.
+学习如何设计可扩展系统将会帮助你成为一名优秀的工程师。
 
-System design is a broad topic.  There is a **vast amount of resources scattered throughout the web** on system design principles.
+系统设计是一个很宽泛的话题。 网络上有大量分散的关于系统设计原则的资源。
+这里是一些资源的集合，帮助你逐步学习如何构建系统。
 
-This repo is an **organized collection** of resources to help you learn how to build systems at scale.
+### 从开源社区中学习
 
-### Learn from the open source community
+作为一个持续更新的开源项目的初稿，欢迎为本项目[贡献](#contributing)力量 ！
 
-This is an early draft of a continually updated, open source project.
+### 为系统设计面试做准备
 
-[Contributions](#contributing) are welcome!
-
-### Prep for the system design interview
-
-In addition to coding interviews, system design is a **required component** of the **technical interview process** at many tech companies.
+除了编码之外，系统设计也是大多数技术型公司在技术面试过程中必不可少的一个环节。
 
 **Practice common system design interview questions** and **compare** your results with **sample solutions**: discussions, code, and diagrams.
 
-Additional topics for interview prep:
+补充一些关于面试准备的话题：
 
-* [Study guide](#study-guide)
-* [How to approach a system design interview question](#how-to-approach-a-system-design-interview-question)
-* [System design interview questions, **with solutions**](#system-design-interview-questions-with-solutions)
-* [Object-oriented design interview questions, **with solutions**](#object-oriented-design-interview-questions-with-solutions)
-* [Additional system design interview questions](#additional-system-design-interview-questions)
+* [学习指南](#study-guide)
+* [如何回答系统设计面试中的问题](#how-to-approach-a-system-design-interview-question)
+* [系统设计相关的面试题和解决方案](#system-design-interview-questions-with-solutions)
+* [面向对象设计相关的面试题和解决方案](#object-oriented-design-interview-questions-with-solutions)
+* [补充的一些系统设计相关的面试题](#additional-system-design-interview-questions)
 
 ## Anki flashcards
 
