@@ -69,11 +69,11 @@
 
 对翻译感兴趣?  请参考这个 [ticket](https://github.com/donnemartin/system-design-primer/issues/28).
 
-## Index of system design topics
+## 目录
 
-> Summaries of various system design topics, including pros and cons.  **Everything is a trade-off**.
+> 关于系统设计相关话题的总结，包括支持的和反对的。  **一切都是权衡**。
 >
-> Each section contains links to more in-depth resources.
+> 每个章节都包含有助于深入了解相关话题的资源的链接。
 
 <p align="center">
   <img src="http://i.imgur.com/jrUBAF7.png">
