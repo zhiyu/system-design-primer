@@ -43,31 +43,31 @@
   <br/>
 </p>
 
-The provided [Anki flashcard decks](https://apps.ankiweb.net/) use spaced repetition to help you retain key system design concepts.
+这里提供的[Anki flashcard decks](https://apps.ankiweb.net/) 帮助你记住系统设计的一些核心概念。
 
-* [System design deck](resources/flash_cards/System%20Design.apkg)
-* [System design exercises deck](resources/flash_cards/System%20Design%20Exercises.apkg)
-* [Object oriented design exercises deck](resources/flash_cards/OO%20Design.apkg)
+* [系统设计](resources/flash_cards/System%20Design.apkg)
+* [系统设计练习](resources/flash_cards/System%20Design%20Exercises.apkg)
+* [面向对象设计练习](resources/flash_cards/OO%20Design.apkg)
 
-Great for use while on-the-go.
+这对以后的学习很有帮助。
 
-## Contributing
+## 贡献
 
-> Learn from the community.
+> 从开源社区中学习。
 
-Feel free to submit pull requests to help:
+可提交 pull requests 帮助我们：
 
-* Fix errors
-* Improve sections
-* Add new sections
+* 修复错误
+* 改进各个章节
+* 增加新的章节
 
-Content that needs some polishing is placed [under development](#under-development).
+一些需要修正的内容放在了 [正在开发中](#under-development).
 
-Review the [Contributing Guidelines](CONTRIBUTING.md).
+查看 [如何提交贡献](CONTRIBUTING.md)。
 
-### Translations
+### 翻译
 
-Interested in **translating**?  Please see the following [ticket](https://github.com/donnemartin/system-design-primer/issues/28).
+对翻译感兴趣?  请参考这个 [ticket](https://github.com/donnemartin/system-design-primer/issues/28).
 
 ## Index of system design topics
 
